@@ -1,9 +1,8 @@
-# gamefinal
 
 # Visão geral
 Este é um projeto de jogo desenvolvido em Unity, que utiliza várias tecnologias e técnicas comuns na criação de jogos 3D. O jogo apresenta um controlador de jogador, sistema de ataque, colisões, animações, efeitos visuais e outras funcionalidades essenciais para proporcionar uma experiência interativa e imersiva.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 O jogo foi desenvolvido utilizando as seguintes tecnologias:
 
 ##Unity Game Engine: Unity é uma poderosa engine de desenvolvimento de jogos que oferece um conjunto completo de ferramentas para a criação de jogos em 2D e 3D. O Unity permite a importação de modelos 3D, criação de ambientes virtuais, animações, controle de personagens e muito mais.
