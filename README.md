@@ -1,6 +1,6 @@
 # gamefinal
 
-#Visão geral
+# Visão geral
 Este é um projeto de jogo desenvolvido em Unity, que utiliza várias tecnologias e técnicas comuns na criação de jogos 3D. O jogo apresenta um controlador de jogador, sistema de ataque, colisões, animações, efeitos visuais e outras funcionalidades essenciais para proporcionar uma experiência interativa e imersiva.
 
 ##Tecnologias utilizadas
