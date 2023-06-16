@@ -1,3 +1,8 @@
+Link projeto:
+
+https://drive.google.com/file/d/1CqJJfIjONqDgfD9qv6PhotTcN3K8jG3Q/view?usp=sharing
+
+
 
 # Visão geral
 Este é um projeto de jogo desenvolvido em Unity, que utiliza várias tecnologias e técnicas comuns na criação de jogos 3D. O jogo apresenta um controlador de jogador, sistema de ataque, colisões, animações, efeitos visuais e outras funcionalidades essenciais para proporcionar uma experiência interativa e imersiva.
