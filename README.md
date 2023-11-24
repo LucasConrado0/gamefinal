@@ -20,7 +20,7 @@ O jogo foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Sistemas de Partículas: O Unity possui um sistema de partículas poderoso que permite a criação de efeitos visuais impressionantes. No jogo, são utilizados sistemas de partículas para criar efeitos de ataque, impacto e interações com o ambiente.
 
-# Recursos e funcionalidades
+# Recursos e funcionalidades do jogo
 O jogo apresenta as seguintes funcionalidades e recursos:
 
 ### Controle do jogador: O jogador pode controlar o personagem usando as teclas de movimentação. O script do controlador de jogador foi implementado para lidar com a entrada do jogador e mover o personagem de acordo com as teclas pressionadas.
